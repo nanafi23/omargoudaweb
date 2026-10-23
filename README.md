@@ -22,7 +22,7 @@ python -m http.server 8000
 
 Open **http://localhost:8000/**.
 
-Live demo: https://nanafi23.github.io/omargoudaweb/
+Live demo: https://Omar-Gouda5.github.io/omargoudaweb/
 
 ## Structure
 
@@ -41,4 +41,4 @@ This is a frontend learning project. The contact and registration screens do not
 
 This is the selected maintenance copy of the older web technologies repositories under this account. Other `omargouda...` repositories are historical iterations, not separate portfolio projects.
 
-For AI/ML work, see [Turkish sentiment analysis](https://github.com/nanafi23/turkish-sentiment-analysis).
+For AI/ML work, see [Turkish sentiment analysis](https://github.com/Omar-Gouda5/turkish-sentiment-analysis).
