@@ -20,16 +20,18 @@ From the repository root:
 python -m http.server 8000
 ```
 
-Open **http://localhost:8000/index.html/index.html**. The outer `index.html` is currently a directory containing the website; it is not the entry-point file itself.
+Open **http://localhost:8000/**.
+
+Live demo: https://nanafi23.github.io/omargoudaweb/
 
 ## Structure
 
-- `index.html/index.html`: main learning page
-- `index.html/in.html`: contact interface
-- `index.html/in2.html`: registration interface
-- `index.html/css/`: stylesheets
-- `index.html/js/`: JavaScript
-- `index.html/assets/`: images and favicon
+- `index.html`: main learning page
+- `in.html`: contact interface
+- `in2.html`: registration interface
+- `css/`: stylesheets
+- `js/`: JavaScript
+- `assets/`: images and favicon
 
 ## Scope
 
